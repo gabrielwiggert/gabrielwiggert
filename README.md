@@ -8,9 +8,9 @@ The main programming languages I use are: JS, CSS, HTML and C.
 Fun fact: I'm a music and video producer in my free time! Even got to make some soundtracks/sound FX for video games.
 
 You can find me and check me out at:
-linkedin.com/gabrielwiggert
-instagram.com/gabrielwiggert
-youtube.com/c/gabrielwiggert
+www.linkedin.com/gabrielwiggert
+www.instagram.com/gabrielwiggert
+www.youtube.com/c/gabrielwiggert
 
 And reach out to me at:
 gabrielwiggert@gmail.com
