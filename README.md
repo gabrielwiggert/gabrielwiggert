@@ -43,7 +43,7 @@ I have experience building servers and APIs with Express and layered architectur
 </div>
 
 
-Fun fact: I'm a music and video producer in my free time! Even got to make some soundtracks/sound FX for video games.
+Fun fact: I'm a music and video producer in my free time! Got to freelance a lot in the area and even make some soundtracks/sound FX for video games and videos.
 
 You can find me and check me out at:
 www.linkedin.com/gabrielwiggert |
