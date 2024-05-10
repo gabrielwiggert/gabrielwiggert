@@ -1,9 +1,9 @@
-Hey there!
+Hi there!
 
-I'm Gabriel Wiggert and I'm a Fullstack Developer / Software Engineer. I've studied in a Fullstack Web Development bootcamp by Driven Education.
-I have a bachelor's degree in Business from Mackenzie Presbyterian University and I'm a former Computer Engineering student from the State University of Campinas (UNICAMP). There, I was a member of the university's group of studies in robotics, getting to play with micro controlers such as Arduino and various electronic components - two of the main projects I worked in there were the development of a self guiding drone (in which I was the test pilot before the automation process started :P) and the making of some cool IoT devices/applications. I also participated in the 2016's Global Game Jam at the university's Institute of Computing, developing a full video game in 48h.
+I'm Gabriel Wiggert and I'm a Fullstack Developer / Software Engineer.
+I'm a former Computer Engineering student from the State University of Campinas (UNICAMP), I have a bachelor's degree in Business Admininstration from Mackenzie Presbyterian University and I've studied modern Fullstack Development in a one year full time course by Driven Education. At Unicamp, I was a member of the university's group of studies in robotics, getting to play with micro controlers such as Arduino and various electronic components - two of the main projects I worked in there were the development of a self guiding drone (in which I was the test pilot before the automation process started :P) and the making of some cool IoT devices/applications. I also participated in the 2016's Global Game Jam at the university's Institute of Computing, developing a full video game in 48h.
 
-The main programming languages I use are JS/TS, CSS, HTML and C. The main technologies I use are React.js for front-end development and Node.js for building back-ends.
+The main programming languages I use are JS/TS, CSS/HTML, Ruby and C. The main technologies I use are React.js for front-end development, Node.js for building back-ends and Ruby on Rails fullstack.
 I have experience building servers and APIs with Express and layered architecture and working with SQL databases such as Postgres (purely or along with Prisma ORM), as well as no-SQLs such as Redis and MongoDB. I'm also skilled at testing software with Jest/Supertest/Cypress (manual, unit, integration and e2e testing), DevOps principles and CI/CD practices, working with Docker, AWS, GitHub Actions and deploys on Heroku/Vercel.
 
 <div align="center">
